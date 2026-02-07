@@ -46,11 +46,6 @@ python3 app.py
 ### 4. Open in Browser
 ```
 
-## 👨‍💻 Author
-Durga Prasad <br>
-B.Tech – Computer Science Engineering <br>
-Amrita Vishwa Vidyapeetham, Chennai
-
 ---
 
 ## 🖼️ Screenshots
@@ -63,3 +58,10 @@ Amrita Vishwa Vidyapeetham, Chennai
 
 ### 📊 Placement Prediction
 ![Prediction](screenshots/prediction.png)
+
+---
+
+## 👨‍💻 Author
+Durga Prasad <br>
+B.Tech – Computer Science Engineering <br>
+Amrita Vishwa Vidyapeetham, Chennai
