@@ -62,6 +62,6 @@ python3 app.py
 ---
 
 ## 👨‍💻 Author
-Durga Prasad <br>
+Somepalli Durga Prasad <br>
 B.Tech – Computer Science Engineering <br>
 Amrita Vishwa Vidyapeetham, Chennai
