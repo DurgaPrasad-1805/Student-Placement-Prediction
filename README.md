@@ -51,3 +51,15 @@ Durga Prasad <br>
 B.Tech – Computer Science Engineering <br>
 Amrita Vishwa Vidyapeetham, Chennai
 
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### ➕ Add Student Profile
+![Add Student](screenshots/add-student.png)
+
+### 📊 Placement Prediction
+![Prediction](screenshots/prediction.png)
