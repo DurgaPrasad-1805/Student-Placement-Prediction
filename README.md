@@ -2,7 +2,7 @@
 
 A full-stack web application that predicts student placement chances and expected salary (LPA) based on academic performance and skills.
 
-## 📌 Features
+## Features
 - Predicts **placement probability** using CGPA and skills
 - Estimates **expected salary (LPA)**
 - Matches students with **30+ top recruiting companies**
@@ -10,20 +10,20 @@ A full-stack web application that predicts student placement chances and expecte
 - Performs **data analysis using Pandas**
 - Interactive and responsive **web-based UI**
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** Python, Flask  
 - **Data Analysis:** Pandas  
 - **Dataset:** CSV  
 - **Tools:** VS Code, GitHub  
 
-## 📈 Data Analysis
+## Data Analysis
 - Used Pandas to analyze historical academic data
 - Placement probability calculated from similar CGPA ranges
 - Expected LPA estimated using mean salary trends
 - Dataset stored in CSV format
 
-## 📊 How It Works
+## How It Works
 1. User enters student details (CGPA, branch, skills, internships, certifications)
 2. Frontend sends data to Flask backend via REST API
 3. Backend analyzes historical academic data using Pandas
@@ -48,7 +48,7 @@ python3 app.py
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
@@ -61,7 +61,7 @@ python3 app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 Somepalli Durga Prasad <br>
 B.Tech – Computer Science Engineering <br>
 Amrita Vishwa Vidyapeetham, Chennai
