@@ -34,11 +34,11 @@ A full-stack web application that predicts student placement chances and expecte
 
 student-placement-prediction/ <br>
 │ <br>
-├── app.py <br>
-├── predictor.py <br>
-├── dataset.csv <br>
-├── requirements.txt <br>
-├── README.md <br>
+|─── app.py <br>
+|─── predictor.py <br>
+|─── dataset.csv <br>
+|─── requirements.txt <br>
+|─── README.md <br>
 │ <br>
 |─── templates/ <br>
 │ └── index.html <br>
