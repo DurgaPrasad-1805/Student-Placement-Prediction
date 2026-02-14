@@ -40,10 +40,10 @@ student-placement-prediction/ <br>
 ├── requirements.txt <br>
 ├── README.md <br>
 │ <br>
-├── templates/ <br>
+|─── templates/ <br>
 │ └── index.html <br>
 │ <br>
-└── static/ <br>
+|─── static/ <br>
 
 ## How to Run the Project
 
