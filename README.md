@@ -33,16 +33,16 @@ A full-stack web application that predicts student placement chances and expecte
 ## Project Structure
 
 student-placement-prediction/ <br>
-│ <br>
+ │ <br>
 ├── app.py <br>
 ├── predictor.py <br>
 ├── dataset.csv <br>
 ├── requirements.txt <br>
 ├── README.md <br>
-│ <br>
+ │ <br>
 ├── templates/ <br>
 │ └── index.html <br>
-│ <br>
+ │ <br>
 └── static/ <br>
 
 ## How to Run the Project
