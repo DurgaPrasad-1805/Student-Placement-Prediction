@@ -30,6 +30,21 @@ A full-stack web application that predicts student placement chances and expecte
 4. Placement probability and expected LPA are calculated
 5. Results are returned and displayed on the UI
 
+## Project Structure
+
+student-placement-prediction/ <br>
+│ <br>
+├── app.py <br>
+├── predictor.py <br>
+├── dataset.csv <br>
+├── requirements.txt <br>
+├── README.md <br>
+│ <br>
+├── templates/ <br>
+│ └── index.html <br>
+│ <br>
+└── static/ <br>
+
 ## How to Run the Project
 
 ```bash
